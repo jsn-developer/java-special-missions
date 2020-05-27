@@ -6,9 +6,9 @@
 
 ## 2. 基本構文をマスターする
 
-[最頻値を求める](./variables/04-03.md)
+[最頻値を求める](./constructions/04-03.md)
 
-[特定の組み合わせを探せ！](./variable/04-05.md)
+[特定の組み合わせを探せ！](./constructions/04-05.md)
 
-[天秤を測る](./variable/04-06.md)
+[天秤を測る](./constructions/04-06.md)
 
