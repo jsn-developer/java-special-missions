@@ -12,6 +12,8 @@
 
 [BMIを計算](./variables/05-03.md)
 
+[キャンディーとクラス旗](./variables/07-01.md)
+
 ### 難易度2
 
 ## 2. 基本構文をマスターする
@@ -21,6 +23,8 @@
 [最頻値を求める](./constructions/04-03.md)
 
 [ランレングス](./constructions/05-05.md)
+
+[視力検査](./constructions/07-02.md)
 
 ### 難易度2
 
@@ -34,3 +38,10 @@
 
 [博士の奇妙な数式](./constructions/05-15.md)
 
+[双子素数](./constructions/07-03.md)
+
+[ボウリングのスコア計算](./constructions/07-05.md)
+
+[三角形と円](./constructions/07-06.md)
+
+[カードの総和](./constructions/07-07.md)
