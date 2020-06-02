@@ -16,6 +16,17 @@
 
 ### 難易度2
 
+[コラッツの問題](./variables/07-51.md)
+
+[宅配料金](./variables/07-02.md)
+
+[体育祭](./variables/07-54.md)
+
+[有料道路料金](./variables/07-56.md)
+
+[宝くじ](./variables/07-58.md)
+
+
 ## 2. 基本構文をマスターする
 
 ### 難易度1
@@ -25,6 +36,7 @@
 [ランレングス](./constructions/05-05.md)
 
 [視力検査](./constructions/07-02.md)
+
 
 ### 難易度2
 
@@ -45,3 +57,4 @@
 [三角形と円](./constructions/07-06.md)
 
 [カードの総和](./constructions/07-07.md)
+
