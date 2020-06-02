@@ -12,9 +12,8 @@
 
 [BMIを計算](./variables/05-03.md)
 
-<<<<<<< HEAD
 [キャンディーとクラス旗](./variables/07-01.md)
-=======
+
 [スピードスケートバッジテスト](./variables/06-01.md)
 
 [リーグ戦星取表](./variables/06-02.md)
@@ -22,7 +21,6 @@
 [日数計算](./variables/06-03.md)
 
 [出口調査](./variables/06-52.md)
->>>>>>> b8a24cc541a057e601f4f2aa74445a53e332ebef
 
 ### 難易度2
 
