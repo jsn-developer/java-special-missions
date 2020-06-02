@@ -22,6 +22,9 @@
 
 [出口調査](./variables/06-52.md)
 
+[お化け屋敷](./variables/08-01.md)
+
+
 ### 難易度2
 
 [コラッツの問題](./variables/07-51.md)
@@ -33,6 +36,11 @@
 [有料道路料金](./variables/07-56.md)
 
 [宝くじ](./variables/07-58.md)
+
+[どんな色？](./variables/08-04.md)
+
+[都市間距離](./variables/08-05.md)
+
 
 
 ## 2. 基本構文をマスターする
@@ -46,6 +54,10 @@
 [視力検査](./constructions/07-02.md)
 
 [身長の度数分布](./constructions/06-54.md)
+
+[バドミントン](./constructions/08-02.md)
+
+[お城の来場者数](./constructions/08-52.md)
 
 ### 難易度2
 
@@ -68,3 +80,6 @@
 [カードの総和](./constructions/07-07.md)
 
 [パターンの回転](./constructions/06-51.md)
+
+[ゴールドバッハ予想](./constructions/08-53.md)
+
