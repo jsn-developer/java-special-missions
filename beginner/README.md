@@ -24,6 +24,8 @@
 
 [お化け屋敷](./variables/08-01.md)
 
+[最大公約数を求めよ](./variables/09-03.md)
+
 
 ### 難易度2
 
@@ -41,6 +43,7 @@
 
 [都市間距離](./variables/08-05.md)
 
+[旅行はいつ?](./variables/09-02.md)
 
 
 ## 2. 基本構文をマスターする
@@ -58,6 +61,11 @@
 [バドミントン](./constructions/08-02.md)
 
 [お城の来場者数](./constructions/08-52.md)
+
+[最大値を求めよ](./constructions/09-01.md)
+
+[野球大会](./constructions/09-02.md)
+
 
 ### 難易度2
 
