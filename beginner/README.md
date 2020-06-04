@@ -45,6 +45,9 @@
 
 [旅行はいつ?](./variables/09-02.md)
 
+[病院でウォーキング](./variables/10-04.md)
+
+[博士の愛した2進数](./variables/10-05.md)
 
 ## 2. 基本構文をマスターする
 
@@ -65,6 +68,8 @@
 [最大値を求めよ](./constructions/09-01.md)
 
 [野球大会](./constructions/09-02.md)
+
+[水道料金を節約しよう](./constructions/10-03.md)
 
 
 ### 難易度2
@@ -90,4 +95,8 @@
 [パターンの回転](./constructions/06-51.md)
 
 [ゴールドバッハ予想](./constructions/08-53.md)
+
+[ヒットアンドブロー](./constructions/10-01.md)
+
+[お客様大感謝祭](./constructions/10-02.md)
 
