@@ -26,6 +26,8 @@
 
 1. [最大公約数を求めよ](./variables/09-03.md)
 
+1. [赤とんぼ](./variables/18-02.md)
+
 1. [柴犬の数](./variables/19-01.md)
 
 1. [金利計算](./variables/11-01.md)
@@ -50,6 +52,8 @@
 1. [都市間距離](./variables/08-05.md)
 
 1. [旅行はいつ?](./variables/09-02.md)
+
+1. [ケーキパーティ](./variables/18-03.md)
 
 1. [ねこのあな](./variables/19-05.md)
 
