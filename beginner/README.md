@@ -4,90 +4,101 @@
 
 ### 難易度1
 
-[問題1-1 整数の和を求める](./variables/04-01.md)
+1. [整数の和を求める](./variables/04-01.md)
 
-[四角すいの面積を求める](./variables/05-01.md)
+1. [四角すいの面積を求める](./variables/05-01.md)
 
-[ビデオテープの残り時間は？](./variables/05-02.md)
+1. [ビデオテープの残り時間は？](./variables/05-02.md)
 
-[BMIを計算](./variables/05-03.md)
+1. [BMIを計算](./variables/05-03.md)
 
-[キャンディーとクラス旗](./variables/07-01.md)
+1. [キャンディーとクラス旗](./variables/07-01.md)
 
-[スピードスケートバッジテスト](./variables/06-01.md)
+1. [スピードスケートバッジテスト](./variables/06-01.md)
 
-[リーグ戦星取表](./variables/06-02.md)
+1. [リーグ戦星取表](./variables/06-02.md)
 
-[日数計算](./variables/06-03.md)
+1. [日数計算](./variables/06-03.md)
 
-[出口調査](./variables/06-52.md)
+1. [出口調査](./variables/06-52.md)
 
-[お化け屋敷](./variables/08-01.md)
+1. [お化け屋敷](./variables/08-01.md)
 
-[最大公約数を求めよ](./variables/09-03.md)
+1. [最大公約数を求めよ](./variables/09-03.md)
+
+1. [柴犬の数](./variables/19-01.md)
+
+
 
 
 ### 難易度2
 
-[コラッツの問題](./variables/07-51.md)
+1. [コラッツの問題](./variables/07-51.md)
 
-[宅配料金](./variables/07-02.md)
+1. [宅配料金](./variables/07-02.md)
 
-[体育祭](./variables/07-54.md)
+1. [体育祭](./variables/07-54.md)
 
-[有料道路料金](./variables/07-56.md)
+1. [有料道路料金](./variables/07-56.md)
 
-[宝くじ](./variables/07-58.md)
+1. [宝くじ](./variables/07-58.md)
 
-[どんな色？](./variables/08-04.md)
+1. [どんな色？](./variables/08-04.md)
 
-[都市間距離](./variables/08-05.md)
+1. [都市間距離](./variables/08-05.md)
 
-[旅行はいつ?](./variables/09-02.md)
+1. [旅行はいつ?](./variables/09-02.md)
+
+1. [ねこのあな](./variables/19-05.md)
 
 
 ## 2. 基本構文をマスターする
 
 ### 難易度1
 
-[最頻値を求める](./constructions/04-03.md)
+1. [最頻値を求める](./constructions/04-03.md)
 
-[ランレングス](./constructions/05-05.md)
+1. [ランレングス](./constructions/05-05.md)
 
-[視力検査](./constructions/07-02.md)
+1. [視力検査](./constructions/07-02.md)
 
-[身長の度数分布](./constructions/06-54.md)
+1. [身長の度数分布](./constructions/06-54.md)
 
-[バドミントン](./constructions/08-02.md)
+1. [バドミントン](./constructions/08-02.md)
 
-[お城の来場者数](./constructions/08-52.md)
+1. [お城の来場者数](./constructions/08-52.md)
 
-[最大値を求めよ](./constructions/09-01.md)
+1. [最大値を求めよ](./constructions/09-01.md)
 
-[野球大会](./constructions/09-02.md)
+1. [野球大会](./constructions/09-02.md)
+
+1. [アスキー文字](./variables/19-02.md)
 
 
 ### 難易度2
 
-[特定の組み合わせを探せ！](./constructions/04-05.md)
+1. [特定の組み合わせを探せ！](./constructions/04-05.md)
 
-[天秤を測る](./constructions/04-06.md)
+1. [天秤を測る](./constructions/04-06.md)
 
-[魔方陣を作る](./constructions/05-06.md)
+1. [魔方陣を作る](./constructions/05-06.md)
 
-[サーチエンジン](./constructions/05-12.md)
+1. [サーチエンジン](./constructions/05-12.md)
 
-[博士の奇妙な数式](./constructions/05-15.md)
+1. [博士の奇妙な数式](./constructions/05-15.md)
 
-[双子素数](./constructions/07-03.md)
+1. [双子素数](./constructions/07-03.md)
 
-[ボウリングのスコア計算](./constructions/07-05.md)
+1. [ボウリングのスコア計算](./constructions/07-05.md)
 
-[三角形と円](./constructions/07-06.md)
+1. [三角形と円](./constructions/07-06.md)
 
-[カードの総和](./constructions/07-07.md)
+1. [カードの総和](./constructions/07-07.md)
 
-[パターンの回転](./constructions/06-51.md)
+1. [パターンの回転](./constructions/06-51.md)
 
-[ゴールドバッハ予想](./constructions/08-53.md)
+1. [ゴールドバッハ予想](./constructions/08-53.md)
+
+1. [2の累乗](./variables/19-03.md)
+
 
