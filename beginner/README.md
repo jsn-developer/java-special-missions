@@ -30,6 +30,8 @@
 
 
 
+[金利計算](./variables/11-01.md)
+
 
 ### 難易度2
 
@@ -51,6 +53,9 @@
 
 1. [ねこのあな](./variables/19-05.md)
 
+[病院でウォーキング](./variables/10-04.md)
+
+[博士の愛した2進数](./variables/10-05.md)
 
 ## 2. 基本構文をマスターする
 
@@ -73,6 +78,12 @@
 1. [野球大会](./constructions/09-02.md)
 
 1. [アスキー文字](./variables/19-02.md)
+
+[水道料金を節約しよう](./constructions/10-03.md)
+
+[勉強の時間](./constructions/11-02.md)
+
+[カードゲーム](./constructions/11-03.md)
 
 
 ### 難易度2
@@ -101,4 +112,10 @@
 
 1. [2の累乗](./variables/19-03.md)
 
+
+[ヒットアンドブロー](./constructions/10-01.md)
+
+[お客様大感謝祭](./constructions/10-02.md)
+
+[リーグ戦](./constructions/11-05.md)
 
