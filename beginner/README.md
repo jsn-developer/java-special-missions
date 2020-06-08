@@ -30,6 +30,8 @@
 
 1. [金利計算](./variables/11-01.md)
 
+1. [10問解いたら何点取れる?](./variables/12-01.md)
+
 
 ### 難易度2
 
@@ -83,6 +85,8 @@
 
 1. [カードゲーム](./constructions/11-03.md)
 
+1. [乗車券](./constructions/12-02.md)
+
 
 ### 難易度2
 
@@ -116,3 +120,8 @@
 
 1. [リーグ戦](./constructions/11-05.md)
 
+1. [家庭菜園](./constructions/12-03.md)
+
+1. [すべての数は6174に通ず](./constructions/12-04.md)
+
+1. [パイプつなぎ職人の給料](./constructions/12-05.md)
