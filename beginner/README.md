@@ -26,6 +26,8 @@
 
 [最大公約数を求めよ](./variables/09-03.md)
 
+[金利計算](./variables/11-01.md)
+
 
 ### 難易度2
 
@@ -71,6 +73,10 @@
 
 [水道料金を節約しよう](./constructions/10-03.md)
 
+[勉強の時間](./constructions/11-02.md)
+
+[カードゲーム](./constructions/11-03.md)
+
 
 ### 難易度2
 
@@ -99,4 +105,6 @@
 [ヒットアンドブロー](./constructions/10-01.md)
 
 [お客様大感謝祭](./constructions/10-02.md)
+
+[リーグ戦](./constructions/11-05.md)
 
