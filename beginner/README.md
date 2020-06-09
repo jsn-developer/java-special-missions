@@ -105,7 +105,7 @@
 
 1. [野球大会](./constructions/09-02.md)
 
-1. [アスキー文字](./variables/19-02.md)
+1. [アスキー文字](./constructions/19-02.md)
 
 1. [水道料金を節約しよう](./constructions/10-03.md)
 
@@ -140,7 +140,7 @@
 
 1. [ゴールドバッハ予想](./constructions/08-53.md)
 
-1. [2の累乗](./variables/19-03.md)
+1. [2の累乗](./constructions/19-03.md)
 
 1. [ヒットアンドブロー](./constructions/10-51.md)
 
