@@ -71,7 +71,7 @@
 
 1. [都市間距離](./variables/08-05.md)
 
-1. [旅行はいつ?](./variables/09-02.md)
+1. [旅行はいつ?](./variables/09-52.md)
 
 1. [ケーキパーティ](./variables/18-03.md)
 
