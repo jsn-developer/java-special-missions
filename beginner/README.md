@@ -142,9 +142,9 @@
 
 1. [2の累乗](./variables/19-03.md)
 
-1. [ヒットアンドブロー](./constructions/10-01.md)
+1. [ヒットアンドブロー](./constructions/10-51.md)
 
-1. [お客様大感謝祭](./constructions/10-02.md)
+1. [お客様大感謝祭](./constructions/10-52.md)
 
 1. [リーグ戦](./constructions/11-05.md)
 
