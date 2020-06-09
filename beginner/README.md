@@ -111,7 +111,7 @@
 
 1. [勉強の時間](./constructions/11-02.md)
 
-1. [カードゲーム](./constructions/11-03.md)
+1. [カードゲーム](./constructions/11-51.md)
 
 1. [乗車券](./constructions/12-02.md)
 
@@ -146,7 +146,7 @@
 
 1. [お客様大感謝祭](./constructions/10-52.md)
 
-1. [リーグ戦](./constructions/11-05.md)
+1. [リーグ戦](./constructions/11-52.md)
 
 1. [家庭菜園](./constructions/12-03.md)
 
