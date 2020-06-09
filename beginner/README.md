@@ -44,6 +44,16 @@
 
 1. [ワード](./variables/16-01.md)
 
+1. [椅子の総数](./variables/14-01.md)
+
+1. [お財布メタボ診断](./variables/14-02.md)
+
+1. [参加者数](./variables/15-01.md)
+
+1. [猪苗代湖の魚釣り競争](./variables/15-02.md)
+
+1. [カエルはまっすぐ帰る](./variables/15-03.md)
+
 
 ### 難易度2
 
@@ -72,6 +82,8 @@
 1. [博士の愛した2進数](./variables/10-05.md)
 
 1. [入場料金](./variables/13-03.md)
+
+1. [残り物には福がある](./variables/14-03.md)
 
 ## 2. 基本構文をマスターする
 
@@ -143,3 +155,9 @@
 1. [パイプつなぎ職人の給料](./constructions/12-05.md)
 
 1. [おそろいの景品](./constructions/13-04.md)
+
+1. [路線バスの時刻表](./constructions/14-04.md)
+
+1. [鉄道路線Ⅱ](./constructions/14-05.md)
+
+1. [プログラミングコンテスト](./constructions/15-05.md)
