@@ -34,6 +34,26 @@
 
 1. [10問解いたら何点取れる?](./variables/12-01.md)
 
+1. [気温の差](./variables/13-01.md)
+
+1. [チケットの売り上げ](./variables/13-02.md)
+
+1. [9月X日](./variables/17-03.md)
+
+1. [歳の差は。](./variables/17-53.md)
+
+1. [ワード](./variables/16-01.md)
+
+1. [椅子の総数](./variables/14-01.md)
+
+1. [お財布メタボ診断](./variables/14-02.md)
+
+1. [参加者数](./variables/15-01.md)
+
+1. [猪苗代湖の魚釣り競争](./variables/15-02.md)
+
+1. [カエルはまっすぐ帰る](./variables/15-03.md)
+
 
 ### 難易度2
 
@@ -51,7 +71,7 @@
 
 1. [都市間距離](./variables/08-05.md)
 
-1. [旅行はいつ?](./variables/09-02.md)
+1. [旅行はいつ?](./variables/09-52.md)
 
 1. [ケーキパーティ](./variables/18-03.md)
 
@@ -60,6 +80,10 @@
 1. [病院でウォーキング](./variables/10-04.md)
 
 1. [博士の愛した2進数](./variables/10-05.md)
+
+1. [入場料金](./variables/13-03.md)
+
+1. [残り物には福がある](./variables/14-03.md)
 
 ## 2. 基本構文をマスターする
 
@@ -81,13 +105,13 @@
 
 1. [野球大会](./constructions/09-02.md)
 
-1. [アスキー文字](./variables/19-02.md)
+1. [アスキー文字](./constructions/19-02.md)
 
 1. [水道料金を節約しよう](./constructions/10-03.md)
 
 1. [勉強の時間](./constructions/11-02.md)
 
-1. [カードゲーム](./constructions/11-03.md)
+1. [カードゲーム](./constructions/11-51.md)
 
 1. [乗車券](./constructions/12-02.md)
 
@@ -116,16 +140,24 @@
 
 1. [ゴールドバッハ予想](./constructions/08-53.md)
 
-1. [2の累乗](./variables/19-03.md)
+1. [2の累乗](./constructions/19-03.md)
 
-1. [ヒットアンドブロー](./constructions/10-01.md)
+1. [ヒットアンドブロー](./constructions/10-51.md)
 
-1. [お客様大感謝祭](./constructions/10-02.md)
+1. [お客様大感謝祭](./constructions/10-52.md)
 
-1. [リーグ戦](./constructions/11-05.md)
+1. [リーグ戦](./constructions/11-52.md)
 
 1. [家庭菜園](./constructions/12-03.md)
 
 1. [すべての数は6174に通ず](./constructions/12-04.md)
 
 1. [パイプつなぎ職人の給料](./constructions/12-05.md)
+
+1. [おそろいの景品](./constructions/13-04.md)
+
+1. [路線バスの時刻表](./constructions/14-04.md)
+
+1. [鉄道路線Ⅱ](./constructions/14-05.md)
+
+1. [プログラミングコンテスト](./constructions/15-05.md)
