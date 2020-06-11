@@ -22,7 +22,7 @@ Employee
 #### 引数
 
 | 論理名 | 物理名 | 型 | 備考 | 
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|
 |姓| lastName | String | - |
 |名| firstName | String | - |
 |部署| section | String | - |
