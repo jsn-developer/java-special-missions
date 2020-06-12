@@ -10,7 +10,7 @@
 
 1. [預金残高を管理するクラスを作ろう](./classes/account.md)
 
-1. [預金残高を管理するクラスを作ろう](./classes/animal.md)
+1. [動物のクラスを作ろう](./classes/animal.md)
 
 
 ## Step2. オーバーロードを実装する
