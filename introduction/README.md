@@ -8,6 +8,11 @@
 
 1. [従業員の情報を管理するクラスを作ろう](./classes/method3.md)
 
+1. [預金残高を管理するクラスを作ろう](./classes/account.md)
+
+1. [預金残高を管理するクラスを作ろう](./classes/animal.md)
+
+
 ## Step2. オーバーロードを実装する
 
 1. [本を管理するクラスを作ろう](./overload/book.md)

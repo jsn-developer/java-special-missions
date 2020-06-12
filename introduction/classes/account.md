@@ -1,4 +1,4 @@
-# 口座の操作に関するクラスを作ろう
+# 預金残高を管理するクラスを作ろう
 
 以下の条件を満たすクラスを作成してください。
 
@@ -97,12 +97,12 @@ Account
 以下のコードを実行して確認しましょう。
 
 ```
-Account account = new account(30000);
+Account account = new Account(30000);
 
 System.out.println(account.withdraw(3000)); // 30000 -> 27000
 System.out.println(account.deposit(10000)); // 27000 -> 37000
 
-Account account = new account(2000);
+Account account = new Account(2000);
 
 System.out.println(account.withdraw(3000)); // 不正な操作です。もう一度やり直してください。
 System.out.println(account.deposit(-1000)); // 不正な操作です。もう一度やり直してください。
