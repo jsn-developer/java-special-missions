@@ -70,6 +70,6 @@ System.out.println(circle.getCircumference()); // 12.56
 
 Circle circle2 = new Circle(5.2);
 
-System.out.println(circle.getArea()); // 21.2264
-System.out.println(circle.getCircumference()); // 16.328
+System.out.println(circle2.getArea()); // 21.2264
+System.out.println(circle2.getCircumference()); // 16.328
 ```
