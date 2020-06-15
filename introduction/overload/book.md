@@ -35,7 +35,7 @@ Book
 
 |メソッド名 | 戻り値の型 | アクセス修飾子 | 静的 | 
 |:-:|:-:|:-:|:-:|
-| getArea | double | public | × | 
+| getPriceWithTax | double | public | × | 
 
 #### 引数
 
@@ -50,7 +50,7 @@ Book
 
 |メソッド名 | 戻り値の型 | アクセス修飾子 | 静的 | 
 |:-:|:-:|:-:|:-:|
-| getCircumference | double | public | × | 
+| getPriceWithTax | double | public | × | 
 
 #### 引数
 
