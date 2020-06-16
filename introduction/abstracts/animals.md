@@ -63,9 +63,9 @@ public abstract class Animal {
 ```
 List<Animal> animals = new ArrayList<>();
 
-animals.add(Dog("ポチ"));
-animals.add(Cat("タマ"));
-animals.add(Kapibara("ホワイトさん"));
+animals.add(new Dog("ポチ"));
+animals.add(new Cat("タマ"));
+animals.add(new Kapibara("ホワイトさん"));
 
 for(Animal a: animals) {
     a.cry();
