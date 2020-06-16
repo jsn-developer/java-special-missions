@@ -76,10 +76,10 @@ Animal
 Animal mao = new Animal("猫", "マオ", "にゃーん");
 
 System.out.println(mao.profile()); // マオは「にゃーん」と鳴く猫です。
-System.out.println(mao.cry()); // 「にゃーん」
+System.out.println(mao.makeSound()); // 「にゃーん」
 
 Animal gon = new Animal("キツネ", "ごん", "クャー");
 
 System.out.println(gon.profile()); // ごんは「クャー」と鳴くキツネです。
-System.out.println(gon.cry()); // 「クャー」
+System.out.println(gon.makeSound()); // 「クャー」
 ```
