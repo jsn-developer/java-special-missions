@@ -24,3 +24,5 @@
 ## Step4. 抽象クラスとインターフェース
 
 1. [動物の抽象クラスを扱う](./abstracts/animals.md)
+
+1. [コンテンツを操作するインターフェースを実装する](./interface/player.md)
