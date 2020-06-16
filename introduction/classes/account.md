@@ -102,8 +102,8 @@ Account account = new Account(30000);
 System.out.println(account.withdraw(3000)); // 30000 -> 27000
 System.out.println(account.deposit(10000)); // 27000 -> 37000
 
-Account account = new Account(2000);
+Account account2 = new Account(2000);
 
-System.out.println(account.withdraw(3000)); // 不正な操作です。もう一度やり直してください。
-System.out.println(account.deposit(-1000)); // 不正な操作です。もう一度やり直してください。
+System.out.println(account2.withdraw(3000)); // 不正な操作です。もう一度やり直してください。
+System.out.println(account2.deposit(-1000)); // 不正な操作です。もう一度やり直してください。
 ```
