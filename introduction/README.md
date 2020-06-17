@@ -47,7 +47,7 @@
 
 このパートでは、以下のDDLファイルを用いてデータベースを作成して学習を進めます。
 
-[DDLファイルのダウンロード](./customerdb.md)
+[DDLファイルのダウンロード](./database/customer/customerdb.ddl)
 
 1. [文字を使った検索をする](./database/customer/1_search.md)
 
