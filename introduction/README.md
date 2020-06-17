@@ -38,3 +38,19 @@
 1. [図形を扱うクラスを継承しよう](./extends/shape1.md)
 
 1. [継承したクラスでオーバーライドを実装する](./extends/shape2.md)
+
+## Step7. SQL
+
+### Part1. 顧客を管理するデータベースを扱う
+
+顧客の管理を行うためのデータベースを用います。
+
+このパートでは、以下のDDLファイルを用いてデータベースを作成して学習を進めます。
+
+[DDLファイルのダウンロード](./customerdb.md)
+
+1. [文字を使った検索をする](./database/customer/1_search.md)
+
+2. [年齢の検索をする](./database/customer/2_age_band.md)
+
+3. [検索をするDAOを作成する](./database/customer/3_search_dao.md)
