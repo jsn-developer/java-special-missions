@@ -59,7 +59,7 @@
 
 1. [コラッツの問題](./variables/07-51.md)
 
-1. [宅配料金](./variables/07-02.md)
+1. [宅配料金](./variables/07-52.md)
 
 1. [体育祭](./variables/07-54.md)
 
