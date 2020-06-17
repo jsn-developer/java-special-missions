@@ -21,6 +21,8 @@
 
 1. [リストの最小値と最大値を求める](./list/minmax.md)
 
+1. [オブジェクトのリストを使おう](./list/object-list.md)
+
 ## Step4. 抽象クラスとインターフェース
 
 1. [動物の抽象クラスを扱う](./abstracts/animals.md)
