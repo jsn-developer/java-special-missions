@@ -54,3 +54,5 @@
 2. [年齢の検索をする](./database/customer/2_age_band.md)
 
 3. [検索をするDAOを作成する](./database/customer/3_search_dao.md)
+
+4. [集計をしてみよう](./database/customer/4_collections.md)
