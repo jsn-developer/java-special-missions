@@ -22,6 +22,6 @@
 
 [DDLファイル](./employee/create_employee_sql.ddl)
 
-[一覧を作成する](./employee/01-list.md)
+1. [一覧を作成する](./employee/01-list.md)
 
-[新規画面を作る](./employee/02-new.md)
+2. [新規画面を作る](./employee/02-new.md)
