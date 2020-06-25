@@ -13,3 +13,5 @@
 [全件検索](./dao/all.md)
 
 [ソート・フィルタ機能](./dao/sort-filter.md)
+
+[顧客詳細ページ](./dao/detail.md)
