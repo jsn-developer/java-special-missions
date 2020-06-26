@@ -27,3 +27,5 @@
 1. [一覧を作成する](./employee/01-list.md)
 
 2. [新規画面を作る](./employee/02-new.md)
+
+3. [詳細画面を作る](./employee/03-detail.md)
