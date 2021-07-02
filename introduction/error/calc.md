@@ -26,7 +26,7 @@ Calcクラスのdivide()は、0で割る計算を行うと、例外が発生し�
 まずは、例外の発生を以下のコードで確認してみましょう。
 ```
 Calc calc = new Calc();
-calc.divide(100,0);
+int result = calc.divide(100,0);
 System.out.println("戻り値は"+result+"です");
 ```
 プログラムが以下のようなエラーを出力します。
